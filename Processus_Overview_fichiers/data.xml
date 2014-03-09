@@ -108,13 +108,13 @@
 							<SolutionXML>
 								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
 									<HLURL:Hyperlink ID="1">
-										<HLURL:Description>Document1_Définition.htm</HLURL:Description>
-										<HLURL:Address>C:\Users\Franck\Desktop\Processus\Document1_Définition.htm</HLURL:Address>
+										<HLURL:Description>Document1_Definition.htm</HLURL:Description>
+										<HLURL:Address>C:\Users\Franck\Desktop\Processus\Document1_Definition.htm</HLURL:Address>
 										<HLURL:SubAddress></HLURL:SubAddress>
 										<HLURL:ExtraInfo></HLURL:ExtraInfo>
 										<HLURL:Default>0</HLURL:Default>
 										<HLURL:NewWindow>0</HLURL:NewWindow>
-										<HLURL:AbsoluteURL>file://C:\Users\Franck\Desktop\Processus\Document1_Définition.htm</HLURL:AbsoluteURL>
+										<HLURL:AbsoluteURL>file://C:\Users\Franck\Desktop\Processus\Document1_Definition.htm</HLURL:AbsoluteURL>
 									</HLURL:Hyperlink>
 								</HLURL:Hyperlinks>
 							</SolutionXML>

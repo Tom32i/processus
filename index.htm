@@ -14,7 +14,7 @@
 		<script src="Processus_Overview_fichiers/frameset.js" type="text/jscript" language="jscript"></script>
 		<script type="text/jscript" language="jscript" >
 
-function FileEntry (pageIndex, pageID, pageName, priImage, secImage) 
+function FileEntry (pageIndex, pageID, pageName, priImage, secImage)
 {
 	this.PageIndex = pageIndex;
 	this.PageID	  = pageID;
@@ -69,7 +69,7 @@ function CViewMgr(convertedImgID, highlightDivID)
 	this.zoomFactor = -1;
 	this.zoomLast = -1;
 	this.origWH = 1;
-	this.origWidth = 100;	
+	this.origWidth = 100;
 	this.aspectRatio = 1;
 
 	this.docDrawing = null;
@@ -221,7 +221,7 @@ function ViewMgrDefaultResize(size)
 g_callBackFunctionArray = new Array();
 function PageLoadedDoCallback()
 {
-	if (g_WidgetsLoaded)	
+	if (g_WidgetsLoaded)
 	{
 		for( var i=0; i < g_callBackFunctionArray.length; i++ )
 		{
@@ -254,7 +254,7 @@ function ParseParams (strRawParams)
 var gParams = ParseParams (location.search);
 
 var g_PageParamValue = gParams['page'];
-if (g_PageParamValue != null && 
+if (g_PageParamValue != null &&
 	g_PageParamValue.length > 0)
 {
 	var pageIndex = PageIndexFromName (g_PageParamValue);
@@ -313,7 +313,7 @@ function UpdateTooltip (element, pageID, shapeID)
 	if (isUpLevel)
 	{
 		var strHL, strProps;
-	
+
 		if(frmDrawing.event.type == "focus")
 		{
 			strHL = strFocusHLTooltipText;
@@ -330,7 +330,7 @@ function UpdateTooltip (element, pageID, shapeID)
 		{
 			strTooltip = element.origTitle.toString();
 		}
-			
+
 		var shapeNode = FindShapeXML (pageID, shapeID);
 
 		if( shapeNode != null )
@@ -341,7 +341,7 @@ function UpdateTooltip (element, pageID, shapeID)
 				if (strTooltip.length > 0)
 				{
 					strTooltip += "\n";
-				} 
+				}
 				strTooltip += strProps;
 			}
 		}
@@ -352,7 +352,7 @@ function UpdateTooltip (element, pageID, shapeID)
 			if (strTooltip.length > 0)
 			{
 				strTooltip += "\n";
-			}	
+			}
 			strTooltip += strHL;
 		}
 
@@ -386,7 +386,7 @@ function GetHLAction (shapeNode, pageID, shapeID)
 	return hlObj;
 }
 
-function HLObj (strHyperlink, strDoFunction, strDesc, newWindow) 
+function HLObj (strHyperlink, strDoFunction, strDesc, newWindow)
 {
 	this.Hyperlink = strHyperlink;
 	this.DoFunction = strDoFunction;
@@ -398,7 +398,7 @@ function clickMenu()
 {
 	var e = window.frmDrawing.event;
 	var menu = frmDrawing.document.all("menu1")
-	
+
 	if (menu != null && menu.style.display != "none")
 	{
 		menu.style.display="none";
@@ -410,7 +410,7 @@ function clickMenu()
 	}
 }
 
-function toggleMenuDiv(el, highlight) 
+function toggleMenuDiv(el, highlight)
 {
 	var divEl = el;
 	var aEl = null;
@@ -421,7 +421,7 @@ function toggleMenuDiv(el, highlight)
 	toggleMenu(divEl, aEl, highlight);
 }
 
-function toggleMenuLink(el, highlight) 
+function toggleMenuLink(el, highlight)
 {
 	var divEl = null;
 	var aEl = el;
@@ -438,8 +438,8 @@ function toggleMenu(divEl, aEl, highlight)
 	{
 	  divEl.className="highlightItem";
 	  aEl.className="highlightItem";
-	} 
-	else 
+	}
+	else
 	{
 	  divEl.className="menuItem";
 	  aEl.className="menuItem";
@@ -469,15 +469,15 @@ function showMenu(pageID, shapeID)
 
 			var menuLeft = e.x;
 			var menuTop = e.y;
-			
+
 			var doc = frmDrawing.document;
 			var img = doc.all("ConvertedImage");
-			
+
 			if( (menuLeft + doc.body.scrollLeft < elem.offsetLeft) || (menuLeft + doc.body.scrollLeft > elem.offsetLeft + elem.offsetWidth + img.offsetLeft) )
 			{
 				menuLeft = elem.offsetLeft + img.offsetLeft + elem.offsetWidth/2;
 			}
-			
+
 			if( (menuTop + doc.body.scrollTop < elem.offsetTop) || (menuTop + doc.body.scrollTop > elem.offsetTop + elem.offsetHeight + img.offsetTop) )
 			{
 				menuTop = elem.offsetTop + img.offsetTop + elem.offsetHeight/2;
@@ -500,7 +500,7 @@ function showMenu(pageID, shapeID)
 
 			var firstLink = menu.all(g_HLMenuEntry + "0");
 			firstLink.focus ();
-			
+
 			if (e.keyCode == 13)
 			{
 				toggleMenuLink(firstLink, true);
@@ -589,7 +589,7 @@ function CreateHLMenu (shapeNode)
 				}
 			}
 		}
-		
+
 		strHLMenuHTML += "</div>";
 	}
 
@@ -622,7 +622,7 @@ function CreateHLObj (hlNode)
 				else
 				{
 					strAddress = strAddr;
-					
+
 					var hlSubAddress = hlNode.selectSingleNode("HLURL:SubAddress/textnode()");
 					if (hlSubAddress != null && hlSubAddress.text.length > 0)
 					{
@@ -641,7 +641,7 @@ function CreateHLObj (hlNode)
 			else
 			{
 				strAddress = strAbsURL;
-			}		
+			}
 
 			strAddress = HTMLEscape (strAddress);
 			hlObj.Hyperlink += strAddress;
@@ -683,12 +683,12 @@ function CreateHLObj (hlNode)
 		{
 			hlObj.Desc = strAddress;
 		}
-	
+
 		var hlNewWindow = hlNode.selectSingleNode("HLURL:NewWindow/textnode()");
 		if (hlNewWindow != null && hlNewWindow.text.length > 0)
 		{
 			hlObj.NewWindow = (hlNewWindow.text == "1");
-		}		
+		}
 	}
 
 	return hlObj;
@@ -697,7 +697,7 @@ function CreateHLObj (hlNode)
 
 		</script>
 	</head>
-	
+
 	<frameset id="frmstOuter" cols="237,*" title="Processus_Overview">
 		<frame src="Processus_Overview_fichiers/toolbar.htm" name="frmToolbar" id="frmToolbar" title="Ce cadre contient des outils pour manipuler votre dessin." frameborder="6" bordercolor="#999999" scrolling="no" marginheight="0" marginwidth="0" >
 		<frame src="Processus_Overview_fichiers/gif_1.htm" name="frmDrawing" title="Ce cadre contient les pages de votre dessin." marginheight="10" marginwidth="10" onload="if (parent.isUpLevel) FramePageLoaded()" >
@@ -713,6 +713,6 @@ function CreateHLObj (hlNode)
 			</body>
 		</noframes>
 	</frameset>
-	
+
 </html>
 
