@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisioDocument>
+	<DocumentProperties>
+		<Title></Title>
+		<HyperlinkBase href=""></HyperlinkBase>
+	</DocumentProperties>
+	<Pages>
+		<Page ID="0" Name="Structure statique-1" NameU="Page-1">
+			<Shapes>
+				<Shape ID="1" UniqueID="{35F9299D-34C3-44D8-AAD8-CBBA9C85116F}" Name="Classe paramétrable" NameU="Parameterized Class" Master="23">
+					<XForm>
+						<PinX Unit="MM">1.791338582677165</PinX>
+						<PinY Unit="MM">9.133858267716535</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="8" UniqueID="{2D130F46-19D6-425C-9247-8F96C0B204FA}" Name="Name" NameU="Name">
+					<Text>Classe1</Text>
+					<XForm>
+						<PinX Unit="MM">1.791338582677165</PinX>
+						<PinY Unit="MM">9.309055118110235</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="9" UniqueID="{ADDAC2DF-E3D9-4B5F-8460-19786A130B76}" Name="Parameters" NameU="Parameters">
+					<Text>Paramètre1</Text>
+					<XForm>
+						<PinX Unit="MM">2.165354330708661</PinX>
+						<PinY Unit="MM">9.507494124514494</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="10" UniqueID="{8384E2B8-CBC8-4981-9DF9-27CBD4C35DAE}" Name="Titre en filigrane" NameU="Watermark Title" Master="18">
+					<Text>Structure statique</Text>
+					<XForm>
+						<PinX Unit="MM">4.133858267716535</PinX>
+						<PinY Unit="MM">11.692913385826770</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="11" UniqueID="{9B8E3FCE-C940-4ACD-B5C1-B43C46E97BB4}" Name="Classe paramétrable.11" NameU="Parameterized Class.11" Master="23">
+					<XForm>
+						<PinX Unit="MM">4.114173228346456</PinX>
+						<PinY Unit="MM">9.133858267716533</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="18" UniqueID="{54B75C30-B18A-4D6C-BBED-89E29047F69D}" Name="Name" NameU="Name">
+					<Text>Classe2</Text>
+					<XForm>
+						<PinX Unit="MM">4.114173228346456</PinX>
+						<PinY Unit="MM">9.309055118110234</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="19" UniqueID="{CE0A27AC-CBD0-4A77-ACA2-BD5A3CF4B0B2}" Name="Parameters" NameU="Parameters">
+					<Text>Paramètre1</Text>
+					<XForm>
+						<PinX Unit="MM">4.488188976377952</PinX>
+						<PinY Unit="MM">9.507494124514492</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="20" UniqueID="{6D81C3DB-FFDA-4C39-BBF0-AFEF609E63EE}" Name="Classe paramétrable.20" NameU="Parameterized Class.20" Master="23">
+					<XForm>
+						<PinX Unit="MM">6.712598425196850</PinX>
+						<PinY Unit="MM">9.133858267716533</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="27" UniqueID="{DA01950E-C09C-4C01-B914-869ABAE9FBBA}" Name="Name" NameU="Name">
+					<Text>Classe3</Text>
+					<XForm>
+						<PinX Unit="MM">6.712598425196850</PinX>
+						<PinY Unit="MM">9.309055118110234</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="28" UniqueID="{7FC3C5A1-CC7A-4E3E-A0FA-A64488DFE25E}" Name="Parameters" NameU="Parameters">
+					<Text>Paramètre1</Text>
+					<XForm>
+						<PinX Unit="MM">7.086614173228346</PinX>
+						<PinY Unit="MM">9.507494124514492</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="29" UniqueID="{06EDED82-815C-41C0-AE32-AAD8726C64DB}" Name="Sous-système" NameU="Subsystem" Master="24">
+					<Text>«subsystem»
+SousSystème1</Text>
+					<XForm>
+						<PinX Unit="MM">4.114173228346456</PinX>
+						<PinY Unit="MM">7.326771653543307</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="32" UniqueID="{5816C1D1-168A-4028-93AA-7B56B82B141D}" Name="Composition" NameU="Composition" Master="25">
+					<XForm>
+						<PinX Unit="MM">2.906625486668238</PinX>
+						<PinY Unit="MM">8.230314960629922</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="33" UniqueID="{1765DEBF-CE68-4973-BB5A-55BD79D06E07}" Name="end1_name" NameU="end1_name">
+					<Text>-Fin1</Text>
+					<XForm>
+						<PinX Unit="IN">2.334753876610090</PinX>
+						<PinY Unit="IN">9.204568945835192</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="34" UniqueID="{ED98F301-DB30-44AD-A00D-AA84870C2B56}" Name="end1_mp" NameU="end1_mp">
+					<Text>1</Text>
+					<XForm>
+						<PinX Unit="IN">2.334753876610090</PinX>
+						<PinY Unit="IN">9.063147589597882</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="35" UniqueID="{C8E37744-9B02-4A34-8324-08E3E0A3BB7B}" Name="end2_name" NameU="end2_name">
+					<Text>-Fin2</Text>
+					<XForm>
+						<PinX Unit="IN">3.478497096726388</PinX>
+						<PinY Unit="IN">7.397482331661967</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="36" UniqueID="{712C4B12-40A8-4ABD-AFB1-2DCC04B7C5B8}" Name="end2_mp" NameU="end2_mp">
+					<Text>*</Text>
+					<XForm>
+						<PinX Unit="IN">3.478497096726382</PinX>
+						<PinY Unit="IN">7.256060975424659</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="37" UniqueID="{87F740CC-222F-4320-B363-1421DAC36C87}" Name="Composition.37" NameU="Composition.37" Master="25">
+					<XForm>
+						<PinX Unit="MM">5.459516245615226</PinX>
+						<PinY Unit="MM">8.230314960629920</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="38" UniqueID="{0D077FEF-53E0-49DC-81D4-CF7D3E1F9D2C}" Name="end1_name" NameU="end1_name">
+					<Text>-Fin3</Text>
+					<XForm>
+						<PinX Unit="IN">6.160915414728490</PinX>
+						<PinY Unit="IN">9.063147589597879</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="39" UniqueID="{18E1FE23-71EC-4A4F-82F3-60EE6E4099ED}" Name="end1_mp" NameU="end1_mp">
+					<Text>1</Text>
+					<XForm>
+						<PinX Unit="IN">6.160915414728490</PinX>
+						<PinY Unit="IN">9.204568945835188</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="40" UniqueID="{AB866A25-52A5-49FA-8C44-9BC723D52EF5}" Name="end2_name" NameU="end2_name">
+					<Text>-Fin4</Text>
+					<XForm>
+						<PinX Unit="IN">4.758117076501963</PinX>
+						<PinY Unit="IN">7.256060975424653</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="41" UniqueID="{AD8FD4DD-4CD4-4E1E-A287-78ED6CE83153}" Name="end2_mp" NameU="end2_mp">
+					<Text>*</Text>
+					<XForm>
+						<PinX Unit="IN">4.758117076501963</PinX>
+						<PinY Unit="IN">7.397482331661962</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="42" UniqueID="{578CF6F2-829C-4D28-B2D1-B2E07282147D}" Name="Dépendance" NameU="Dependency" Master="27">
+					<XForm>
+						<PinX Unit="MM">4.114173228346456</PinX>
+						<PinY Unit="MM">8.143890733018342</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="43" UniqueID="{8BF8CDB3-D1C9-4818-8C07-249073BB3CC4}" Name="Note" NameU="Note" Master="28">
+					<XForm>
+						<PinX Unit="MM">2.301567389402666</PinX>
+						<PinY Unit="MM">6.049212598425196</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Document6_Suivi.htm</HLURL:Description>
+										<HLURL:Address>C:\Users\Franck\Desktop\Processus\Document6_Suivi.htm</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>file://C:\Users\Franck\Desktop\Processus\Document6_Suivi.htm</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="4" Name="Structure statique-2" NameU="Structure statique-2">
+			<Shapes>
+				<Shape ID="1" UniqueID="{1F4C98FD-0F1D-48A3-8CEA-355B2D8E1FBD}" Name="Titre en filigrane" NameU="Watermark Title" Master="18">
+					<Text>Structure statique</Text>
+					<XForm>
+						<PinX Unit="MM">4.133858267716535</PinX>
+						<PinY Unit="MM">11.692913385826770</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+	</Pages>
+</VisioDocument>

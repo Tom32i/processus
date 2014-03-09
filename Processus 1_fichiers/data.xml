@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisioDocument>
+	<DocumentProperties>
+		<Title></Title>
+		<HyperlinkBase href=""></HyperlinkBase>
+	</DocumentProperties>
+	<Pages>
+		<Page ID="0" Name="Séquence-1" NameU="Page-1">
+			<Shapes>
+				<Shape ID="1" UniqueID="{489C1877-512E-4FB7-903B-6709FDCEE9BD}" Name="Ligne de vie d'un objet" NameU="Object Lifeline" Master="23">
+					<Text>Objet1</Text>
+					<XForm>
+						<PinX Unit="MM">1.968503937007874</PinX>
+						<PinY Unit="MM">10.411417322834644</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="7" UniqueID="{5897A2DF-8DAB-42D9-B505-58185CAA92D6}" Name="Titre en filigrane" NameU="Watermark Title" Master="18">
+					<Text>Séquence</Text>
+					<XForm>
+						<PinX Unit="MM">4.133858267716535</PinX>
+						<PinY Unit="MM">11.692913385826770</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="8" UniqueID="{D9D6D818-823F-45B1-B35B-6EB729665DFF}" Name="Ligne de vie d'un objet.8" NameU="Object Lifeline.8" Master="23">
+					<Text>Objet2</Text>
+					<XForm>
+						<PinX Unit="MM">3.720472440944882</PinX>
+						<PinY Unit="MM">10.411417322834644</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="14" UniqueID="{F6FE2C33-DB56-446C-AC31-531A2956C9DC}" Name="Ligne de vie d'un objet.14" NameU="Object Lifeline.14" Master="23">
+					<Text>Objet3</Text>
+					<XForm>
+						<PinX Unit="MM">5.511811023622046</PinX>
+						<PinY Unit="MM">10.411417322834644</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="20" UniqueID="{E7F30E85-F0B2-406E-977E-885D2F5DD67F}" Name="Message" NameU="Message" Master="24">
+					<Text>Message1</Text>
+					<XForm>
+						<PinX Unit="MM">2.844488188976378</PinX>
+						<PinY Unit="MM">10.411417322834644</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="21" UniqueID="{2F6229C2-E6A7-4E50-A507-E1F78D65BD3D}" Name="Message.21" NameU="Message.21" Master="24">
+					<Text>Message1</Text>
+					<XForm>
+						<PinX Unit="MM">2.844488188976378</PinX>
+						<PinY Unit="MM">10.411417322834644</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="22" UniqueID="{DACDC917-B38B-4142-94CB-D563A64E74FB}" Name="Message.22" NameU="Message.22" Master="24">
+					<Text>Message2</Text>
+					<XForm>
+						<PinX Unit="MM">4.616141732283464</PinX>
+						<PinY Unit="MM">10.411417322834644</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="23" UniqueID="{65A4412E-1898-4720-A777-18C1E792D70D}" Name="Note" NameU="Note" Master="25">
+					<XForm>
+						<PinX Unit="MM">1.555118110236220</PinX>
+						<PinY Unit="MM">7.820866141732283</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Document2_APR.htm</HLURL:Description>
+										<HLURL:Address>C:\Users\Franck\Desktop\Processus\Document2_APR.htm</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>file://C:\Users\Franck\Desktop\Processus\Document2_APR.htm</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="26" UniqueID="{7D79D0C3-71B1-4988-AF9E-3ED13955A905}" Name="Note.26" NameU="Note.26" Master="25">
+					<XForm>
+						<PinX Unit="MM">1.865381890262343</PinX>
+						<PinY Unit="MM">7.230314960629920</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Document2_NotedeCadrage.htm</HLURL:Description>
+										<HLURL:Address>C:\Users\Franck\Desktop\Processus\Document2_NotedeCadrage.htm</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>file://C:\Users\Franck\Desktop\Processus\Document2_NotedeCadrage.htm</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+			</Shapes>
+		</Page>
+	</Pages>
+</VisioDocument>

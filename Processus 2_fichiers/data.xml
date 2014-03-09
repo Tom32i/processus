@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisioDocument>
+	<DocumentProperties>
+		<Title></Title>
+		<HyperlinkBase href=""></HyperlinkBase>
+	</DocumentProperties>
+	<Pages>
+		<Page ID="0" Name="Activité-1" NameU="Page-1">
+			<Shapes>
+				<Shape ID="2" UniqueID="{C1D957D2-42BB-4F54-91DF-319EE81FFB6D}" Name="Titre en filigrane" NameU="Watermark Title" Master="18">
+					<Text>Activité</Text>
+					<XForm>
+						<PinX Unit="MM">4.133858267716535</PinX>
+						<PinY Unit="MM">11.692913385826770</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="7" UniqueID="{3508B446-F3CC-474D-940C-916A2F400CE9}" Name="Note" NameU="Note" Master="25">
+					<XForm>
+						<PinX Unit="MM">1.924890829954424</PinX>
+						<PinY Unit="MM">5.852362204724409</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Document4_Analyse.htm</HLURL:Description>
+										<HLURL:Address>C:\Users\Franck\Desktop\Processus\Document4_Analyse.htm</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>file://C:\Users\Franck\Desktop\Processus\Document4_Analyse.htm</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="10" UniqueID="{835137E8-27F6-47A8-9CF1-CD1CC771FA40}" Name="Note.10" NameU="Note.10" Master="25">
+					<XForm>
+						<PinX Unit="MM">2.039171530638018</PinX>
+						<PinY Unit="MM">5.261811023622047</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Document5_Identification.htm</HLURL:Description>
+										<HLURL:Address>C:\Users\Franck\Desktop\Processus\Document5_Identification.htm</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>file://C:\Users\Franck\Desktop\Processus\Document5_Identification.htm</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="1" UniqueID="{F0D53F15-64B8-4FE8-8AFA-5CF24669AFA1}" Name="Noeud" NameU="Node" Master="27">
+					<Text>Noeud1</Text>
+					<XForm>
+						<PinX Unit="MM">3.740157480314960</PinX>
+						<PinY Unit="MM">9.448818897637795</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="16" UniqueID="{5F525601-12A8-41B1-8C0F-681B9638E350}" Name="Objet" NameU="Object" Master="29">
+					<Text>Objet1</Text>
+					<XForm>
+						<PinX Unit="MM">3.759842519685039</PinX>
+						<PinY Unit="MM">7.292322834645669</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="19" UniqueID="{EE7EEEFB-6C73-4E55-BDBD-A420BA1D5A86}" Name="Dépendance.19" NameU="Dependency.19" Master="28">
+					<Text>Dépendance2</Text>
+					<XForm>
+						<PinX Unit="MM">2.891721181175703</PinX>
+						<PinY Unit="MM">9.869094488188976</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="20" UniqueID="{0AAC9962-20E3-4F10-BB56-2AD43F69FFCD}" Name="Instance de composant" NameU="Component Instance" Master="30">
+					<Text>InstanceComposant1</Text>
+					<XForm>
+						<PinX Unit="MM">5.921692558967359</PinX>
+						<PinY Unit="MM">10.289370078740157</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="25" UniqueID="{0315A558-5A3E-41CA-952A-D2E73186BE3E}" Name="Composant" NameU="Component" Master="31">
+					<Text>Composant1</Text>
+					<XForm>
+						<PinX Unit="MM">1.960618818970979</PinX>
+						<PinY Unit="MM">10.289370078740157</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="6" UniqueID="{13A51082-B49C-4CE9-A0A2-370581867BDE}" Name="Dépendance" NameU="Dependency" Master="28">
+					<Text>Dépendance1</Text>
+					<XForm>
+						<PinX Unit="MM">4.726564606211453</PinX>
+						<PinY Unit="MM">9.837844488188976</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="30" UniqueID="{EE67905B-416F-47B4-9031-7F7A49C875AB}" Name="Communique" NameU="Communicates" Master="32">
+					<XForm>
+						<PinX Unit="MM">3.750000000000000</PinX>
+						<PinY Unit="MM">8.214566929133857</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="31" UniqueID="{D2AC26D8-A442-4102-91C5-7C8A9D41428E}" Name="end1_name" NameU="end1_name">
+					<Text>-Fin1</Text>
+					<XForm>
+						<PinX Unit="IN">3.812400136661616</PinX>
+						<PinY Unit="IN">8.835007232699720</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="32" UniqueID="{9872A46E-B095-429D-B33C-62BF552B3E19}" Name="end1_mp" NameU="end1_mp">
+					<Text>*</Text>
+					<XForm>
+						<PinX Unit="IN">3.670991484668223</PinX>
+						<PinY Unit="IN">8.833111674362007</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="33" UniqueID="{B8ED8383-FDC9-47D2-8847-CDB658F6FEAA}" Name="end2_name" NameU="end2_name">
+					<Text>-Fin2</Text>
+					<XForm>
+						<PinX Unit="IN">3.829008515331777</PinX>
+						<PinY Unit="IN">7.596022183905711</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="34" UniqueID="{3293BD58-AEB6-4F4F-890D-11E7A0AA4332}" Name="end2_mp" NameU="end2_mp">
+					<Text>*</Text>
+					<XForm>
+						<PinX Unit="IN">3.687599863338385</PinX>
+						<PinY Unit="IN">7.594126625567998</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+	</Pages>
+</VisioDocument>

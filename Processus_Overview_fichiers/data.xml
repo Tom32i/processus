@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisioDocument>
+	<DocumentProperties>
+		<Title></Title>
+		<HyperlinkBase href=""></HyperlinkBase>
+	</DocumentProperties>
+	<Pages>
+		<Page ID="0" Name="Activité-1" NameU="Page-1">
+			<Shapes>
+				<Shape ID="2" UniqueID="{D1734F68-0D4B-4FB9-B039-B43CB171969D}" Name="Titre en filigrane" NameU="Watermark Title" Master="18">
+					<Text>Activité</Text>
+					<XForm>
+						<PinX Unit="MM">4.133858267716535</PinX>
+						<PinY Unit="MM">11.692913385826770</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="1" UniqueID="{19BDFF62-1787-4346-98F3-4A7F7DD48042}" Name="Ligne de vie d'un objet" NameU="Object Lifeline" Master="27">
+					<Text>Processus 1</Text>
+					<XForm>
+						<PinX Unit="MM">1.574803149606299</PinX>
+						<PinY Unit="MM">10.651574803149604</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Processus 1.htm</HLURL:Description>
+										<HLURL:Address>C:\Users\Franck\Desktop\Processus\Processus 1.htm</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>file://C:\Users\Franck\Desktop\Processus\Processus 1.htm</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="8" UniqueID="{3A7A164E-D40C-4FF7-89CA-8F1F430E302B}" Name="Ligne de vie d'un objet.8" NameU="Object Lifeline.8" Master="27">
+					<Text>Processus 2</Text>
+					<XForm>
+						<PinX Unit="MM">4.114173228346457</PinX>
+						<PinY Unit="MM">10.651574803149604</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Processus 2.htm</HLURL:Description>
+										<HLURL:Address>C:\Users\Franck\Desktop\Processus\Processus 2.htm</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>file://C:\Users\Franck\Desktop\Processus\Processus 2.htm</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="14" UniqueID="{D2FC326C-9550-4540-AF47-72A2FB085CEA}" Name="Ligne de vie d'un objet.14" NameU="Object Lifeline.14" Master="27">
+					<Text>Processus 3</Text>
+					<XForm>
+						<PinX Unit="MM">6.496062992125983</PinX>
+						<PinY Unit="MM">10.651574803149604</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Processus3.htm</HLURL:Description>
+										<HLURL:Address>C:\Users\Franck\Desktop\Processus\Processus3.htm</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>file://C:\Users\Franck\Desktop\Processus\Processus3.htm</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="20" UniqueID="{24A218D1-B067-402B-B73C-788C274C31DE}" Name="Message" NameU="Message" Master="28">
+					<XForm>
+						<PinX Unit="MM">2.844488188976378</PinX>
+						<PinY Unit="MM">10.651574803149604</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="22" UniqueID="{BE300514-7737-4FD3-AB20-1C395AF71E4B}" Name="Message.22" NameU="Message.22" Master="28">
+					<XForm>
+						<PinX Unit="MM">5.305118110236220</PinX>
+						<PinY Unit="MM">10.651574803149604</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="21" UniqueID="{C85BE8FF-D9B4-4512-AA58-04D70C5D9DE0}" Name="Note" NameU="Note" Master="29">
+					<XForm>
+						<PinX Unit="MM">1.653543307086614</PinX>
+						<PinY Unit="MM">8.517716535433070</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Document1_Définition.htm</HLURL:Description>
+										<HLURL:Address>C:\Users\Franck\Desktop\Processus\Document1_Définition.htm</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>file://C:\Users\Franck\Desktop\Processus\Document1_Définition.htm</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+			</Shapes>
+		</Page>
+	</Pages>
+</VisioDocument>
